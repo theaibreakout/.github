@@ -1,12 +1,16 @@
-## Hi there 👋
+# The AI Breakout
 
-<!--
+The AI Breakout is an independent tech publication covering frontier models, agentic workflows, and developer tools. We translate model drops, AI policy shifts, and GitHub releases into daily briefings and deep-dive analysis — every story cited to the official source, never recycled headlines.
 
-**Here are some ideas to get you started:**
+### 🌐 Official Channels
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Website:** https://theaibreakout.github.io/
+- **LinkedIn:** https://www.linkedin.com/company/theaibreakout
+- **Instagram:** https://www.instagram.com/theaibreakout
+- **RSS:** https://theaibreakout.github.io/rss.xml
+
+### 📬 Editorial & Contact
+
+Founded and edited by [Rajat Jain (@TheRajatJain)](https://github.com/TheRajatJain).
+
+For sponsorships, editorial inquiries, or tool submissions: **theaibreakout@gmail.com**
