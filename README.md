@@ -4,10 +4,10 @@ The AI Breakout is an independent tech publication covering frontier models, age
 
 ### 🌐 Official Channels
 
-- **Website:** https://theaibreakout.github.io/
+- **Website:** https://theaibreakout.tech
 - **LinkedIn:** https://www.linkedin.com/company/theaibreakout
 - **Instagram:** https://www.instagram.com/theaibreakout
-- **RSS:** https://theaibreakout.github.io/rss.xml
+- **RSS:** https://theaibreakout.tech/rss.xml
 
 ### 📬 Editorial & Contact
 
